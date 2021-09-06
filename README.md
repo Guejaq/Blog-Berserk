@@ -17,6 +17,7 @@ Tambien se le fue añadido enlaces en palabras claves, a paginas con informacion
 ![3](https://user-images.githubusercontent.com/87548801/132263409-6ed4d6ab-8e9a-4a13-8ac6-e9885f313a63.png)
 
 Tambien se le fue añadido enlaces en portales de noticias para poder conocer mas a fondo algunos temas que no se tocan.
+Cuadro añadido, con informacion poco espeficia sobre los personajes principales.
 
 ![4](https://user-images.githubusercontent.com/87548801/132263412-168216b2-4303-4890-b41f-593c8b06d0d3.png)
 
