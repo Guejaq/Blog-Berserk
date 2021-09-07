@@ -25,7 +25,7 @@ Y se le fue añadido un sector para enviar mensajes o contactarse conmigo en cas
 
 ![5](https://user-images.githubusercontent.com/87548801/132263413-6dad9a57-5986-474a-bf18-eb391ba83c4a.png)
 
-# Posibles arrgelos y/o actualizaciones:
+# Posibles arreglos y/o actualizaciones:
 
 - Agregar un enlace directo a gmail para contactarse conmigo.
 - Terminar el sector de mensajes para poder enviar directo a gmail lo que me consulten.
