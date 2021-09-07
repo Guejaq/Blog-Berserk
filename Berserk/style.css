@@ -1,0 +1,71 @@
+body {
+	min-height: 100vh;
+	bakcground color: black;
+	background-image: url(../Multimedia/Imágenes/k.jpg);
+	background-repeat: no-repeat;	/*No repetir la imagen*/
+	background-attachment: fixed;	/*Imagen fija con el texto en movimiento*/
+}
+
+h1 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 40px;
+	color: whitesmoke;
+}
+
+h5 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 18px;
+	color: whitesmoke;
+}
+
+h2 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 32px;
+	color: whitesmoke;
+}
+
+p {
+	font-family: 'Oswald', sans-serif;
+	font-size: 18px;
+	color: whitesmoke;
+}
+
+li {
+	font-family: 'Oswald', sans-serif;
+	font-size: 18px;
+	color: whitesmoke;
+}
+
+table {
+	font-family: 'Oswald', sans-serif;
+	font-size: 18px;
+	color: whitesmoke;
+	width: 100%;
+	border: 1px solid #f37575;
+}
+	th, td {
+		width: 25%;
+		text-align: left;
+		vertical-align: top;
+		border: 1px solid #f37575;
+		border-collapse: collapse;
+		padding: 0.3em;
+		caption-side: bottom;
+	}
+	caption {
+		padding: 0.3em;
+	}
+
+
+
+<style>
+/* Cambiar color de fondo del reproductor */
+.entry-content .mejs-container .mejs-controls {
+    background: #f3b6b6;}
+</style>
+
+<style>
+	p {text-align:center; padding:8px;}
+	div{width:75%;padding:8px;margin:auto;}
+	center{margin:16px 0;}
+</style>
